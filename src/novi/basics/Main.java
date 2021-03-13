@@ -73,7 +73,7 @@ public class Main {
         System.out.println("Doctor's balance: " + someDoctor.getBalance());
         System.out.println("Handyman's balance: " + someHandyman.getBalance());
 
-        System.out.println("test github");
+
 
     }
 
