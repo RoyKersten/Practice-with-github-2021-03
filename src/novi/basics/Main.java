@@ -74,7 +74,6 @@ public class Main {
         System.out.println("Handyman's balance: " + someHandyman.getBalance());
 
 
-
     }
 
 
